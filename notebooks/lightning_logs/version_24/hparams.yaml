@@ -1,8 +1,8 @@
 rnn_type: LSTM
 input_size: 23
-hidden_size: 64
-num_layers: 3
-bidirectional: false
+hidden_size: 32
+num_layers: 5
+bidirectional: true
 learning_rate: 0.001
 optimizer_params: {}
 lr_scheduler: null
