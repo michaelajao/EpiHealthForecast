@@ -1,5 +1,5 @@
 rnn_type: LSTM
-input_size: 6
+input_size: 23
 hidden_size: 64
 num_layers: 3
 bidirectional: false
