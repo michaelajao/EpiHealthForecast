@@ -1,6 +1,6 @@
-rnn_type: GRU
+rnn_type: LSTM
 input_size: 21
-hidden_size: 128
+hidden_size: 32
 num_layers: 5
 bidirectional: true
 learning_rate: 0.0005
