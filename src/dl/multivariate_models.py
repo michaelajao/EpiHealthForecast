@@ -1,3 +1,6 @@
+# src/dl/multivariate_models.py
+# Description: Contains the implementation of the models used for multivariate time series forecasting
+
 """Base Model"""
 import random
 from abc import ABCMeta, abstractmethod
