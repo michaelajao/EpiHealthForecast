@@ -1,8 +1,0 @@
-input_size: 21
-hidden_size: 64
-num_layers: 5
-cnn_filters: 32
-kernel_size: 3
-dropout: 0.2
-learning_rate: 0.001
-horizon: 1
