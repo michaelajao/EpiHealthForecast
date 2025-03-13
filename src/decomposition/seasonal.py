@@ -1,3 +1,6 @@
+# src/decomposition/seasonal.py
+
+
 import warnings
 from abc import abstractmethod
 from collections import OrderedDict

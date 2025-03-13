@@ -1,3 +1,7 @@
+# src/transforms/stationary_utils.py
+
+# Description: Utility functions for checking stationarity, trend, seasonality and heteroscedasticity in time series data.
+
 import warnings
 from statsmodels.tsa.stattools import adfuller, kpss
 import pandas as pd
