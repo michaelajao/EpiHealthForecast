@@ -11,8 +11,6 @@ Data includes:
 - New and cumulative confirmed cases
 - Death statistics
 
-Reference: Oyelakin et al. (2023) "Deep Learning-Based COVID-19 Hospitalization Forecasting"
-           IEEE ICMLA 2023, Jacksonville, FL, USA
 """
 
 import os
