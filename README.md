@@ -181,6 +181,18 @@ model = SingleStepRNNModel(config)
 
 ## Data Description
 
+### Data Sources
+
+The datasets used in this study were collected from multiple official sources:
+
+| Source | Data Type | Description |
+|--------|-----------|-------------|
+| [NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/) | Hospital Activity | COVID-19 hospital admissions, bed occupancy, ventilator usage |
+| [UK Coronavirus Dashboard](https://coronavirus.data.gov.uk/) | Case Data | Daily confirmed cases, deaths, testing data |
+| [ONS (Office for National Statistics)](https://www.ons.gov.uk/) | Demographics | Population data by region and local authority |
+| [UK Government Vaccination Data](https://coronavirus.data.gov.uk/details/vaccinations) | Vaccination | Vaccination rates and coverage by region |
+| [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Mobility | Regional mobility trends during the pandemic |
+
 ### Primary Dataset
 
 The study uses COVID-19 healthcare data from NHS England, including:
