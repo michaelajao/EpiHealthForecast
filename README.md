@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICMLA58977.2023.00203-blue)](https://doi.org/10.1109/ICMLA58977.2023.00203)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.10%2B-orange)](https://pytorch.org/)
 
 ## Overview
 
