@@ -3,7 +3,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICMLA58977.2023.00203-blue)](https://doi.org/10.1109/ICMLA58977.2023.00203)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Overview
 
@@ -305,10 +304,6 @@ This comprehensive guide covers essential topics including ARIMA baselines, feat
 <!-- ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change. -->
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- ## Acknowledgments
 
