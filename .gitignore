@@ -84,14 +84,6 @@ venv.bak/
 lightning_logs/
 checkpoints/
 
-# Data files (too large for git)
-data/raw/*.csv
-data/processed/*.csv
-data/interim/*.csv
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/interim/.gitkeep
-
 # Large model files
 models/
 
