@@ -93,13 +93,14 @@ data/interim/*.csv
 !data/interim/.gitkeep
 
 # Large model files
-models/*.pth
-models/*.pt
+models/
 
 # Figures (can be regenerated)
-figures/*.png
-figures/*.jpg
-figures/*.pdf
+figures/
+
+# Report outputs (can be regenerated)
+report/
+!report/.gitkeep
 
 # OS generated files
 .DS_Store
