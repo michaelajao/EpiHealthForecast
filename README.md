@@ -275,7 +275,7 @@ If you use this code in your research, please cite our paper:
 
 ### Recommended Reading
 
-The time series forecasting techniques used in this project were largely informed by the following textbook:
+The time series forecasting techniques and some codes used in this project were largely informed by the following textbook:
 
 ```bibtex
 @book{manu_modern_2022,
